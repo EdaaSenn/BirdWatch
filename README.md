@@ -1,7 +1,6 @@
  # BİRD WATCH
  
- BİRD WATCH OYUN VİDEOSUNUN YOUTUBE LİNKİ : 
- [Oyun Videosu](https://www.youtube.com/watch?v=AxUuG2Yco5E)
+ BİRD WATCH OYUN VİDEOSUNUN YOUTUBE LİNKİ :  (https://www.youtube.com/watch?v=AxUuG2Yco5E)
 
 
 # OYUNDAN GÖRSELLER 
