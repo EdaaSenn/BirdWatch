@@ -1,0 +1,4 @@
+ [Oyun Videosu](https://www.youtube.com/watch?v=AxUuG2Yco5E)
+
+![tur-basinda](https://github-production-user-asset-6210df.s3.amazonaws.com/212278288/447182195-e1408d0f-6662-48fa-a7e9-5109b5e82d2b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250523%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250523T213344Z&X-Amz-Expires=300&X-Amz-Signature=eb095f0b1c31584b6db8bbae4980922cc2499e033ce71f38feb7acc14e7119e8&X-Amz-SignedHeaders=host)![tur-sonunda](https://github.com/user-attachments/assets/3ec3b01d-d0df-4d74-a919-db4b54848936)
+![tur-sonunda](https://github-production-user-asset-6210df.s3.amazonaws.com/212278288/447275609-bb5d9edf-4aba-4ee0-afc4-8dfbfc84096b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250524%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250524T171142Z&X-Amz-Expires=300&X-Amz-Signature=d93a2af35010240ab6c6dd31aaa6bdef403dfe35324d457caade9936eb462bf5&X-Amz-SignedHeaders=host)
