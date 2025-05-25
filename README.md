@@ -14,7 +14,7 @@
  
  # OYUN KURALLARI 
  Her oyunda 20 tur vardır ve satranç tahtası içindeki kuşlar kenarda kırılan yumurtalardan kaçmaya çalışırlar.
- Satranç taşı ile hareket eden kuşlar her turun sonunda satranç tahtasının etrafında kırılan yumurtalardan kaçmaya çalışırlar.
+ Satranç taşı hareketi gibi hareket eden kuşlar her turun sonunda satranç tahtasının etrafında kırılan yumurtalardan kaçmaya çalışırlar.
  En az skor yapmaya çalışılır.Yani kırılan yumurtalardan kaçmaya çalışılır.
 
  # OYUNUN İNTERNET SİTESİ LİNKİ
